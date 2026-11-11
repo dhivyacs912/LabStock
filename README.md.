@@ -1,0 +1,31 @@
+LabStock – Electronics Laboratory Component Availability Tracker
+
+Problem Statement
+
+Electronics students often waste valuable laboratory time searching for components because they don't know their availability, quantity, or storage location.
+
+Objective
+
+To develop a simple web application that helps students check the availability and storage location of electronic components.
+
+Target Users
+
+- ECE Students
+- Laboratory Staff
+- Faculty Members
+- Project Teams
+
+Planned Features
+
+- Search for electronic components
+- Check available quantities
+- View component availability
+- Find storage locations
+- Admin can update component stock
+
+Technologies
+
+- HTML
+- CSS
+- JavaScript
+- GitHub
